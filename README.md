@@ -7,7 +7,7 @@ Native Base
 ## Bibliotecas
 
 :white_check_mark:	[Native Base](https://docs.nativebase.io/installation).
-
+:white_check_mark:	[Async Storage](https://react-native-async-storage.github.io/async-storage/docs/usage/).
 
 ## Rodando
 > Entrar na pasta do projeto e executar: 
