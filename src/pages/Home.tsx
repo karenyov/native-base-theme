@@ -49,7 +49,12 @@ export function Home() {
 
         <Box
           p={10}
-          bg={["primary.500", "primary.600"]}
+          _dark={{
+            bg: "primary.800",
+          }}
+          _light={{
+            bg: "primary.500",
+          }}
           shadow={2}
           rounded="md"
           _text={{
